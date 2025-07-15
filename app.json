@@ -9,7 +9,8 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.datacreata.birddog"
     },
     "android": {
       "adaptiveIcon": {
@@ -45,6 +46,6 @@
         "projectId": "73dde49a-5cc4-496a-956d-79c8294f0567"
       }
     },
-    "owner": "mernmaster25"
+    "owner": "mobiledev25"
   }
 }
